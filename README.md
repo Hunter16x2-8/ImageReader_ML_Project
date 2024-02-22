@@ -16,4 +16,4 @@ This project demonstrates how to capture an image using your webcam, convert it 
 
 1. Open a Colab notebook.
 
-2. Run the  commands in a code cell
+2. Run the  commands in a code given in this file ImageReader.ipynb
