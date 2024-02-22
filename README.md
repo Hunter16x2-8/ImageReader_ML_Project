@@ -15,5 +15,7 @@ This project demonstrates how to capture an image using your webcam, convert it 
 ### **Installation:**
 
 1. Open a Colab notebook.
+2. Copy the API keys and paste them in secrets (in Key Box).
+3. Name their secret Keyword as 'gemini' for Gemini API Key and for ElevenLabs API Key name this secret Keyword as 'Elevenlabs'.
+4. Run the  commands in a code given in this file ImageReader.ipynb
 
-2. Run the  commands in a code given in this file ImageReader.ipynb
